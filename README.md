@@ -13,6 +13,9 @@ I'm currently trying to find memory address to then write on it. I will post her
 | 3BAB3C      | 4 bytes | Number of munition  |
 | 44CD00      | 4 bytes | Number of cars  |
 | 44CD04      | 4 bytes | Number of laps  |
+| 44CD24      | 1 byte | Pick ups  |
 | 44CD40      | 4 bytes      |   strlen of the name of the player |
 | 44CD44 | String[strlen(name)]      |    Contains the name of the player (your name)|
+| 44CD60      | 1 byte      |   Random cars  |
+| 44CD64      | 1 byte      |   Random tracks  |
 
