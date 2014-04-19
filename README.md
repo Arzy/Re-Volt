@@ -9,7 +9,7 @@ I'm currently trying to find memory address to then write on it. I will post her
 | ------------- |:-------------:|:-----|
 | 38A568     | 8 bytes      |   FPS (= Frame Per Second ) during a race |
 | 3B1BD4      | 4 bytes | Rank during a race  |
-| 3B772C      | 4 bytes | Current lap during a race  |
+| 3B772C      | 4 bytes | Current lap during a race - 1 (I mean that, first lap -> '0') |
 | 3BAB3C      | 4 bytes | Number of munition  |
 | 44CD40      | 4 bytes      |   strlen of the name of the player |
 | 44CD44 | String[strlen(name)]      |    Contains the name of the player (your name)|
