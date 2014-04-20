@@ -23,4 +23,3 @@ I'm currently trying to find memory address to then write on it. I will post her
 | 44CD64      | 1 byte      |   Random tracks  |
 | 44CD70      | 1 byte      |   Split Time (Local/Download) |
 
-44CA28
