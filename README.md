@@ -13,6 +13,7 @@ I'm currently trying to find memory address to then write on it. I will post her
 | 3B2D48      | 4 bytes | Speed Unit (MPH/Scaled MPH/FPM/KPH/Scaled KPH)  |
 | 3B772C      | 4 bytes | Current lap during a race |
 | 3BAB3C      | 4 bytes | Number of munition  |
+| 44CA28      | 8 bytes | Race Time  |
 | 44CD00      | 4 bytes | Number of cars  |
 | 44CD04      | 4 bytes | Number of laps  |
 | 44CD24      | 1 byte | Pick ups  |
@@ -22,3 +23,4 @@ I'm currently trying to find memory address to then write on it. I will post her
 | 44CD64      | 1 byte      |   Random tracks  |
 | 44CD70      | 1 byte      |   Split Time (Local/Download) |
 
+44CA28
