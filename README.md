@@ -7,6 +7,7 @@ I'm currently trying to find memory address to then write on it. I will post her
 
 | Address (offset : revolt.exe + ...)        | Type           | Desc  |
 | ------------- |:-------------:|:-----|
+| 0DBFC0     | 4 bytes      |   Number of tries during a championship |
 | 38A568     | 8 bytes      |   FPS (= Frame Per Second ) during a race |
 | 3B1BD4      | 4 bytes | Rank during a race  |
 | 3B2D48      | 4 bytes | Speed Unit (MPH/Scaled MPH/FPM/KPH/Scaled KPH)  |
@@ -20,3 +21,4 @@ I'm currently trying to find memory address to then write on it. I will post her
 | 44CD60      | 1 byte      |   Random cars  |
 | 44CD64      | 1 byte      |   Random tracks  |
 | 44CD70      | 1 byte      |   Split Time (Local/Download) |
+
