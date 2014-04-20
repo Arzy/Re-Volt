@@ -14,6 +14,7 @@ I'm currently trying to find memory address to then write on it. I will post her
 | 3B772C      | 4 bytes | Current lap during a race |
 | 3B7730      | 8 bytes | Current lap time during a race |
 | 3B7738      | 8 bytes | Best lap time during a race |
+| 3BAA20      | 1 byte | Is player in the right way ? |
 | 3BAB3C      | 4 bytes | Number of munition  |
 | 44CA28      | 8 bytes | Race Time  |
 | 44CD00      | 4 bytes | Number of cars  |
