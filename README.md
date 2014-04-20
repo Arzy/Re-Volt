@@ -18,4 +18,5 @@ I'm currently trying to find memory address to then write on it. I will post her
 | 44CD44 | String[strlen(name)]      |    Contains the name of the player (your name)|
 | 44CD60      | 1 byte      |   Random cars  |
 | 44CD64      | 1 byte      |   Random tracks  |
+| 44CD70      | 1 byte      |   Split Time (Local/Download) |
 
