@@ -11,6 +11,7 @@ I'm currently trying to find memory address to then write on it. I will post her
 | 38A568     | 8 bytes      |   FPS (= Frame Per Second ) during a race |
 | 3B1BD4      | 4 bytes | Rank during a race  |
 | 3B2D48      | 4 bytes | Speed Unit (MPH/Scaled MPH/FPM/KPH/Scaled KPH)  |
+| 3B6950      | 1 byte | PICK UP TYPE 0 = "gun", 1 = one firework, 2 = triple firework, 3 = explosive car, 4 = water balloon,5 = lightning, 6 = oil, 7 = billiard ball, 8 = battery, 9 = fake pickup, 10 = star,255 = none |
 | 3B772C      | 4 bytes | Current lap during a race |
 | 3B7730      | 8 bytes | Current lap time during a race |
 | 3B7738      | 8 bytes | Best lap time during a race |
